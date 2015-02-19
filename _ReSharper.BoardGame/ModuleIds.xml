@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="BDA1AA83-7282-4B89-8D7B-E7864E952878" ModuleId="BoardGame" />
+  <Module PersistentId="A526B967-9EAE-483B-B1C6-D93ED431389B" ModuleId="BoardGameLib" />
+</Modules>

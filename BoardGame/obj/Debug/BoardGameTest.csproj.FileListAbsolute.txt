@@ -1,0 +1,14 @@
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGame\obj\Debug\BoardGameTest.csprojResolveAssemblyReference.cache
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGame.dll
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGame.pdb
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGameLib.exe
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGameLib.pdb
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGame\obj\Debug\BoardGame.dll
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGame\obj\Debug\BoardGame.pdb
+D:\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGame.dll
+D:\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGame.pdb
+D:\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGameLib.exe
+D:\Dropbox\projects\Game\BoardGame\BoardGame\bin\Debug\BoardGameLib.pdb
+D:\Dropbox\projects\Game\BoardGame\BoardGame\obj\Debug\BoardGameTest.csprojResolveAssemblyReference.cache
+D:\Dropbox\projects\Game\BoardGame\BoardGame\obj\Debug\BoardGame.dll
+D:\Dropbox\projects\Game\BoardGame\BoardGame\obj\Debug\BoardGame.pdb

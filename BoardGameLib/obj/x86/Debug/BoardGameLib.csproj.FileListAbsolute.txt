@@ -1,0 +1,10 @@
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGameLib\bin\Debug\BoardGameLib.exe
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGameLib\bin\Debug\BoardGameLib.pdb
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGameLib\obj\x86\Debug\BoardGameLib.exe
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGameLib\obj\x86\Debug\BoardGameLib.pdb
+C:\Users\alin-lucian.taranu\Dropbox\projects\Game\BoardGame\BoardGameLib\obj\x86\Debug\BoardGameLib.csprojResolveAssemblyReference.cache
+D:\Dropbox\projects\Game\BoardGame\BoardGameLib\bin\Debug\BoardGameLib.exe
+D:\Dropbox\projects\Game\BoardGame\BoardGameLib\bin\Debug\BoardGameLib.pdb
+D:\Dropbox\projects\Game\BoardGame\BoardGameLib\obj\x86\Debug\BoardGameLib.csprojResolveAssemblyReference.cache
+D:\Dropbox\projects\Game\BoardGame\BoardGameLib\obj\x86\Debug\BoardGameLib.exe
+D:\Dropbox\projects\Game\BoardGame\BoardGameLib\obj\x86\Debug\BoardGameLib.pdb

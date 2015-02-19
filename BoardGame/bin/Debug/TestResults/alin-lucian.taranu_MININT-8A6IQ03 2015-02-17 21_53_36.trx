@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="83b0622f-3d46-48c5-819b-0e0ac086d466" name="alin-lucian.taranu@MININT-8A6IQ03 2015-02-17 21:53:36" runUser="MUC\alin-lucian.taranu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="82e27f11-db21-43f7-a08b-cf2a96a63325">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="alin-lucian.taranu_MININT-8A6IQ03 2015-02-17 21_53_36" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-17T21:53:36.4730152+01:00" queuing="2015-02-17T21:53:36.6780152+01:00" start="2015-02-17T21:53:36.8080152+01:00" finish="2015-02-17T21:53:37.0600152+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_MoveNextShouldFinishTheGame" storage="c:\users\alin-lucian.taranu\dropbox\projects\game\boardgame\boardgame\bin\debug\boardgame.dll" id="ef7c9ab8-021f-7637-86fa-0e6498e0e992">
+      <Execution timeOut="1800000" id="9a6df177-9fc6-413f-a117-7ec67dae18dd" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Dropbox/projects/Game/BoardGame/BoardGame/bin/Debug/BoardGame.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BoardGameTest.GameTest, BoardGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_MoveNextShouldFinishTheGame" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ef7c9ab8-021f-7637-86fa-0e6498e0e992" executionId="9a6df177-9fc6-413f-a117-7ec67dae18dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9a6df177-9fc6-413f-a117-7ec67dae18dd" testId="ef7c9ab8-021f-7637-86fa-0e6498e0e992" testName="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_MoveNextShouldFinishTheGame" computerName="MININT-8A6IQ03" duration="00:00:00.1144540" startTime="2015-02-17T21:53:36.8440152+01:00" endTime="2015-02-17T21:53:37.0040152+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9a6df177-9fc6-413f-a117-7ec67dae18dd">
+    </UnitTestResult>
+  </Results>
+</TestRun>

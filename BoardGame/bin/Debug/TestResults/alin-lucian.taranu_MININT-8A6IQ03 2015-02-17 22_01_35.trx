@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2bbcf752-5e20-468c-89b3-2572f0d8ec95" name="alin-lucian.taranu@MININT-8A6IQ03 2015-02-17 22:01:35" runUser="MUC\alin-lucian.taranu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="82e27f11-db21-43f7-a08b-cf2a96a63325">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="alin-lucian.taranu_MININT-8A6IQ03 2015-02-17 22_01_35" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-17T22:01:35.3970569+01:00" queuing="2015-02-17T22:01:35.6030775+01:00" start="2015-02-17T22:01:35.7340906+01:00" finish="2015-02-17T22:01:36.0111183+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestRandomBoardCreatedSuccessfully_ShouldHaveCorrectSizeAndColorsNumber" storage="c:\users\alin-lucian.taranu\dropbox\projects\game\boardgame\boardgame\bin\debug\boardgame.dll" id="12f546da-7202-dae7-2c39-26aad5359553">
+      <Execution timeOut="1800000" id="96b53e4b-e489-4d92-ba42-9ad7b8c39b90" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Dropbox/projects/Game/BoardGame/BoardGame/bin/Debug/BoardGame.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BoardGameTest.GameTest, BoardGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRandomBoardCreatedSuccessfully_ShouldHaveCorrectSizeAndColorsNumber" />
+    </UnitTest>
+    <UnitTest name="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_MoveNextShouldFinishTheGame" storage="c:\users\alin-lucian.taranu\dropbox\projects\game\boardgame\boardgame\bin\debug\boardgame.dll" id="ef7c9ab8-021f-7637-86fa-0e6498e0e992">
+      <Execution timeOut="1800000" id="783262bc-93c6-4217-baa1-be49d42f9d2e" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Dropbox/projects/Game/BoardGame/BoardGame/bin/Debug/BoardGame.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BoardGameTest.GameTest, BoardGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_MoveNextShouldFinishTheGame" />
+    </UnitTest>
+    <UnitTest name="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_PickColorShouldReturnTheCorrectColorCode" storage="c:\users\alin-lucian.taranu\dropbox\projects\game\boardgame\boardgame\bin\debug\boardgame.dll" id="d0828ca5-057e-e119-3c72-475e6f50ce32">
+      <Execution timeOut="1800000" id="eba75cd7-0ad7-4c43-ad0f-5fe44ce97bb7" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Dropbox/projects/Game/BoardGame/BoardGame/bin/Debug/BoardGame.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BoardGameTest.GameTest, BoardGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_PickColorShouldReturnTheCorrectColorCode" />
+    </UnitTest>
+    <UnitTest name="TestBoardWithThreeColors_PickColorShouldReturnTheCorrectColorCode" storage="c:\users\alin-lucian.taranu\dropbox\projects\game\boardgame\boardgame\bin\debug\boardgame.dll" id="ab7bf40d-276d-0b8b-863a-b6606b7fbaa9">
+      <Execution timeOut="1800000" id="c47fc964-73eb-48f2-8e68-3d2d717042e7" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Dropbox/projects/Game/BoardGame/BoardGame/bin/Debug/BoardGame.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BoardGameTest.GameTest, BoardGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestBoardWithThreeColors_PickColorShouldReturnTheCorrectColorCode" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ab7bf40d-276d-0b8b-863a-b6606b7fbaa9" executionId="c47fc964-73eb-48f2-8e68-3d2d717042e7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef7c9ab8-021f-7637-86fa-0e6498e0e992" executionId="783262bc-93c6-4217-baa1-be49d42f9d2e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0828ca5-057e-e119-3c72-475e6f50ce32" executionId="eba75cd7-0ad7-4c43-ad0f-5fe44ce97bb7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12f546da-7202-dae7-2c39-26aad5359553" executionId="96b53e4b-e489-4d92-ba42-9ad7b8c39b90" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c47fc964-73eb-48f2-8e68-3d2d717042e7" testId="ab7bf40d-276d-0b8b-863a-b6606b7fbaa9" testName="TestBoardWithThreeColors_PickColorShouldReturnTheCorrectColorCode" computerName="MININT-8A6IQ03" duration="00:00:00.1176830" startTime="2015-02-17T22:01:35.7730945+01:00" endTime="2015-02-17T22:01:35.9371109+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c47fc964-73eb-48f2-8e68-3d2d717042e7">
+    </UnitTestResult>
+    <UnitTestResult executionId="783262bc-93c6-4217-baa1-be49d42f9d2e" testId="ef7c9ab8-021f-7637-86fa-0e6498e0e992" testName="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_MoveNextShouldFinishTheGame" computerName="MININT-8A6IQ03" duration="00:00:00.0024825" startTime="2015-02-17T22:01:35.9411113+01:00" endTime="2015-02-17T22:01:35.9441116+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="783262bc-93c6-4217-baa1-be49d42f9d2e">
+    </UnitTestResult>
+    <UnitTestResult executionId="eba75cd7-0ad7-4c43-ad0f-5fe44ce97bb7" testId="d0828ca5-057e-e119-3c72-475e6f50ce32" testName="TestBoardWithTwoColorsHavingOnlyOriginDifferentThanTheOthers_PickColorShouldReturnTheCorrectColorCode" computerName="MININT-8A6IQ03" duration="00:00:00.0014545" startTime="2015-02-17T22:01:35.9491121+01:00" endTime="2015-02-17T22:01:35.9511123+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eba75cd7-0ad7-4c43-ad0f-5fe44ce97bb7">
+    </UnitTestResult>
+    <UnitTestResult executionId="96b53e4b-e489-4d92-ba42-9ad7b8c39b90" testId="12f546da-7202-dae7-2c39-26aad5359553" testName="TestRandomBoardCreatedSuccessfully_ShouldHaveCorrectSizeAndColorsNumber" computerName="MININT-8A6IQ03" duration="00:00:00.0009227" startTime="2015-02-17T22:01:35.9551127+01:00" endTime="2015-02-17T22:01:35.9561128+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96b53e4b-e489-4d92-ba42-9ad7b8c39b90">
+    </UnitTestResult>
+  </Results>
+</TestRun>
